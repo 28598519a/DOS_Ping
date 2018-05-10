@@ -5,4 +5,4 @@
 
 ![image](https://github.com/28598519a/DOS_Ping/blob/master/DOS%20T05%20Example.PNG)
 
-Required: Visual Studio 2017
+Required: Visual Studio C++ 2017
