@@ -3,6 +3,6 @@
 
 本程式僅用於測試用途，使用環境請謹慎評估。
 
-![image]
+![image]https://github.com/28598519a/DOS_Ping/blob/master/DOS%20T05%20Example.PNG
 
 Required: Visual Studio 2017
